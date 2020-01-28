@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Autochip Movies</string>
+
+    <string name="prompt_user_id">User ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="save">Save</string>
+</resources>
